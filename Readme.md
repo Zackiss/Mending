@@ -168,7 +168,8 @@ Overwrite.Queue.clear(catalog: str)
 
 ## Threading
 
-For multi-threaded function overrides, the event queue is cross-threaded, and the order of event completion depends on the total program time sequence, asynchrony may cause event order confusion. Instantiating classes for each individual thread is a reasonable solution.
+For multi-threaded function overrides, the event queue is cross-threaded, and the order of event completion depends on the total program time sequence, asynchrony may cause event order confusion. 
+Instantiating classes for each individual thread is a reasonable solution.
 
 ## Development
 **Version:**
