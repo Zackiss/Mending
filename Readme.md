@@ -9,6 +9,10 @@ A Lite Package focuses on making overwrite and mending functions easier and more
 - None Invasive Embed Way, More Flexible
 - ✨Easy to use✨
 
+## Package Related
+
+Package **ast**, **inspect**, **functools** Used in Package.
+
 ## Installation
 
 https://pypi.org/project/Overwrite/0.0.9/
