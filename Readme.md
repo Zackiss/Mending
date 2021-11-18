@@ -11,6 +11,8 @@ A Lite Package focuses on making overwrite and mending functions easier and more
 
 ## Installation
 
+https://pypi.org/project/Overwrite/0.0.9/
+
 Overwrite requires [Python](https://www.python.org/) 3.6+ to run.
 
 Simply install with one-line pip command.
