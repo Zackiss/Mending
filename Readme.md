@@ -167,8 +167,10 @@ For multi-threaded function overrides, the event queue is cross-threaded, and th
 ## Development
 **Version:**
 *2021.11.18 (0.0.9)*
+
 **Author:** 
 _Zack the White_,  _Qcmcmc_
+
 **Email Contact:**
 [_**Zack the White**_](ssongaj@connect.ust.hk)
 [_**Qcmcmc**_](2778512552@qq.com)
