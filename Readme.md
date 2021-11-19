@@ -49,7 +49,7 @@ def func():
 2. _times (integer)_: 
    The times this function calling is affected. (if affected forever, set times to _-1_)
 3. _license (any)_: 
-   Used to identify whether the modification is valid and distinguish between different overwrite events.
+   Used to identify whether the modification is valid and distinguish between different mending events.
 4. _func (function)_: 
    Mending function, used for overwriting.
 
