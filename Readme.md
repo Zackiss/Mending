@@ -3,7 +3,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-A Lite Package focuses on making project's after-post mending easier and more flexible. Certainly used for mending or expanding finished Projects without modifying existed Codes.
+A Lite Package focuses on making project's after-post mending easier and more flexible. Certainly used for mending or expanding finished projects without changing exists Code.
 
 - No Origin Codes Changes, Injection with Licenses
 - None Invasive Embed Way, More Flexible
