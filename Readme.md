@@ -1,9 +1,9 @@
 # Mending
-## _Make Overwrite More flexible In Python_
+## _Make after-work Mending More flexible In Python_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-A Lite Package focuses on making project's after-post mending easier and more flexible. Certain Method performs differently in Certain Condition in an event queue. Certainly used for mending or expanding finished Projects without modifying existed Codes.
+A Lite Package focuses on making project's after-post mending easier and more flexible. Certainly used for mending or expanding finished Projects without modifying existed Codes.
 
 - No Origin Codes Changes, Injection with Licenses
 - None Invasive Embed Way, More Flexible
