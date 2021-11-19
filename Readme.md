@@ -16,7 +16,7 @@ Overwrite requires [Python](https://www.python.org/) 3.6+ to run.
 Simply install with one-line pip command.
 
 ```shell
-pip install Overwrite
+pip install Mending
 ```
 ## How to Use
 
